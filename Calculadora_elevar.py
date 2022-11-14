@@ -1,4 +1,3 @@
-
 a = input ("Pon un numero: \n")
 print ("es mi primera calculadora,asique poco a poco ire añadiendo mas adelante \n")
 b = input ("Elevado a: \n")
